@@ -8,8 +8,8 @@ Created with the purpose of developing games on unity
 
 ### Creators/Collaborators
 
-[Rehlan Fernandes](rylemikeferns@gmail.com)
+[Rehlan Fernandes](mailto:rylemikeferns@gmail.com)
 [GitHub Account](https://github.com/Rehlan)
 
-[Aishwarya Tiwari](aishwarya.tiwari29@gmail.com)
+[Aishwarya Tiwari](mailto:aishwarya.tiwari29@gmail.com)
 [Content Page](https://www.instagram.com/aishbat/)
